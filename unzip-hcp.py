@@ -36,16 +36,16 @@ subjects = subset.to_list()
 #go through each type of zip file
 for zip in config["zipfiles"]:
     print(zip)
-    download_files = config["zipfiles"][zip]["download"]
+    include_files = config["zipfiles"][zip]["include"]
     exclude_files = config["zipfiles"][zip]["exclude"]
   
-    if download_files == None:
-        print(f"skipping {zip}, no files selected to download...")
+    if include_files == None:
+        print(f"skipping {zip}, no files selected to include...")
         continue
     
     for subject in subjects:
         unzip_cmd = f"unzip '{in_hcp_dir}/{subject}_{zip}.zip'"
-        for dl in download_files:
+        for dl in include_files:
             unzip_cmd += f" '{dl}'".format(subject=subject)
         if not exclude_files == None:
             unzip_cmd += f" -x"
