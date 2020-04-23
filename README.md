@@ -28,6 +28,7 @@ git clone http://github.com/khanlab/unzip-hcp
 2. Install script:
 Can omit the `--user` if using conda or virtualenv
 ```
+cd unzip-hcp
 python setup.py install --user 
 ```
 
