@@ -1,0 +1,32 @@
+in_hcp_dir: /project/6050199/ext-data/hcp1200/zipfiles
+out_scratch: /scratch/your_user_name/hcp1200
+
+#csv from connectomedb
+hcp_csv: /project/6050199/ext-data/hcp1200/csv/hcp1200_demog_behav.20200414.csv
+
+
+#modify below to add or remove files
+zipfiles:
+ 3T_Structural_1.6mm_preproc:
+   download:
+   exclude:
+
+ 7T_Diffusion_preproc:
+   download:
+   exclude:
+
+ 7T_MOVIE_2mm_preproc:
+   download:
+   exclude:
+
+ 7T_MOVIE_1.6mm_preproc:
+   download:
+   exclude:
+
+ 7T_REST_2mm_preproc:
+   download:
+   exclude:
+
+ 7T_REST_1.6mm_preproc:
+   download:
+   exclude:
