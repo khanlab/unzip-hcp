@@ -46,4 +46,9 @@ unzip-hcp.py -n
 ```
 unzip-hcp.py -x
 ```
+You can submit a batch job using:
+```
+regularSubmit  -j Skinny "source venv-unzip-hcp/bin/activate && unzip-hcp.py -c YOUR_CONFIG_FILE -x"
+```
+
 
