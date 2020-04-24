@@ -14,36 +14,35 @@ It uses a config.yml file to pick what files to include from each zip file, and 
 
 ## Instructions
 
-Note: if you want to set-up miniconda in your home directory on graham, use:
-```
-module load miniconda3
-conda init
-```
-
 1. Clone this repository
 ```
 git clone http://github.com/khanlab/unzip-hcp
 ```
 
-2. Install script:
-Can omit the `--user` if using conda or virtualenv
+2. Create a virtual environment (module load required for compute canada):
 ```
-cd unzip-hcp
-python setup.py install --user 
+module load python/3
+virtualenv venv-unzip-hcp
 ```
 
-3. Edit one of the config files (e.g. `config.yml` or `config_diff7T.yml`),  setting `out_scratch_dir` to a scratch folder you control. 
+3. Activate the virtual environment and install it there:
+```
+source venv-unzip-hcp/bin/activate
+pip install ./unzip-hcp
+```
 
-4. Choose what zip files you want to extract by placing `'*'` in the include list.
+4. Edit one of the config files (e.g. `config.yml` or `config_diff7T.yml`),  setting `out_scratch_dir` to a scratch folder you control. 
 
-5. Use the `sample_file_listing.txt` to update the config.yml to include or exclude any files you wish. This text file contains a listing of all the files in each zip file, replacing the subject id with `{subject}`. 
+5. Choose what zip files you want to extract by placing `'*'` in the include list.
 
-6. Do a dry-run with:
+6. Use the `sample_file_listing.txt` to update the config.yml to include or exclude any files you wish. This text file contains a listing of all the files in each zip file, replacing the subject id with `{subject}`. 
+
+7. Do a dry-run with:
 ```
 unzip-hcp.py -n 
 ```
 
-7. Extract the files using:
+8. Extract the files using:
 ```
 unzip-hcp.py -x
 ```

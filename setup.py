@@ -18,7 +18,9 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.6',
-    install_requires='pandas',
+    python_requires='>=3.7',
+    install_requires=[
+        'pandas>=1.0.0',
+        'PyYAML>=5.3'],
     scripts=['unzip-hcp.py'],
 )
