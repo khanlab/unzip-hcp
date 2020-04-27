@@ -1,0 +1,86 @@
+Archive:  /project/6050199/ext-data/hcp1200/zipfiles/{subject}_7T_MOVIE_2mm_preproc.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+        0  03-07-2018 22:38   {subject}/
+        0  03-07-2018 22:38   {subject}/MNINonLinear/
+        0  03-07-2018 22:38   {subject}/MNINonLinear/Results/
+        0  03-07-2018 22:38   {subject}/MNINonLinear/Results/tfMRI_MOVIE2_7T_PA/
+   122094  07-14-2017 03:58   {subject}/MNINonLinear/Results/tfMRI_MOVIE2_7T_PA/Movement_Regressors.txt
+ 17232928  07-14-2017 03:52   {subject}/MNINonLinear/Results/tfMRI_MOVIE2_7T_PA/tfMRI_MOVIE2_7T_PA_PhaseTwo_gdc_dc.nii.gz
+        9  07-14-2017 03:58   {subject}/MNINonLinear/Results/tfMRI_MOVIE2_7T_PA/Movement_RelativeRMS_mean.txt
+   122094  07-14-2017 03:58   {subject}/MNINonLinear/Results/tfMRI_MOVIE2_7T_PA/Movement_Regressors_dt.txt
+        0  03-07-2018 22:38   {subject}/MNINonLinear/Results/tfMRI_MOVIE2_7T_PA/RibbonVolumeToSurfaceMapping/
+   100258  07-14-2017 04:04   {subject}/MNINonLinear/Results/tfMRI_MOVIE2_7T_PA/RibbonVolumeToSurfaceMapping/goodvoxels.nii.gz
+     8150  07-14-2017 03:58   {subject}/MNINonLinear/Results/tfMRI_MOVIE2_7T_PA/Movement_AbsoluteRMS.txt
+  1847531  07-14-2017 03:52   {subject}/MNINonLinear/Results/tfMRI_MOVIE2_7T_PA/tfMRI_MOVIE2_7T_PA_sebased_bias.nii.gz
+     8385  07-14-2017 03:58   {subject}/MNINonLinear/Results/tfMRI_MOVIE2_7T_PA/Movement_RelativeRMS.txt
+  1788854  07-14-2017 03:52   {subject}/MNINonLinear/Results/tfMRI_MOVIE2_7T_PA/tfMRI_MOVIE2_7T_PA_dropouts.nii.gz
+335821872  12-18-2017 11:21   {subject}/MNINonLinear/Results/tfMRI_MOVIE2_7T_PA/tfMRI_MOVIE2_7T_PA_Atlas_MSMAll.dtseries.nii
+ 17231478  07-14-2017 03:51   {subject}/MNINonLinear/Results/tfMRI_MOVIE2_7T_PA/tfMRI_MOVIE2_7T_PA_PhaseOne_gdc_dc.nii.gz
+  1645315  07-14-2017 03:58   {subject}/MNINonLinear/Results/tfMRI_MOVIE2_7T_PA/tfMRI_MOVIE2_7T_PA_SBRef.nii.gz
+    41422  07-14-2017 03:58   {subject}/MNINonLinear/Results/tfMRI_MOVIE2_7T_PA/brainmask_fs.1.60.nii.gz
+  5634030  07-14-2017 03:58   {subject}/MNINonLinear/Results/tfMRI_MOVIE2_7T_PA/tfMRI_MOVIE2_7T_PA_Jacobian.nii.gz
+        9  07-14-2017 03:58   {subject}/MNINonLinear/Results/tfMRI_MOVIE2_7T_PA/Movement_AbsoluteRMS_mean.txt
+  1852264  07-14-2017 03:52   {subject}/MNINonLinear/Results/tfMRI_MOVIE2_7T_PA/tfMRI_MOVIE2_7T_PA_sebased_reference.nii.gz
+335821840  07-14-2017 06:05   {subject}/MNINonLinear/Results/tfMRI_MOVIE2_7T_PA/tfMRI_MOVIE2_7T_PA_Atlas.dtseries.nii
+        0  03-07-2018 22:38   {subject}/MNINonLinear/Results/tfMRI_MOVIE3_7T_PA/
+  1642660  07-14-2017 04:33   {subject}/MNINonLinear/Results/tfMRI_MOVIE3_7T_PA/tfMRI_MOVIE3_7T_PA_SBRef.nii.gz
+ 17230761  07-14-2017 04:25   {subject}/MNINonLinear/Results/tfMRI_MOVIE3_7T_PA/tfMRI_MOVIE3_7T_PA_PhaseTwo_gdc_dc.nii.gz
+334726456  07-14-2017 06:57   {subject}/MNINonLinear/Results/tfMRI_MOVIE3_7T_PA/tfMRI_MOVIE3_7T_PA_Atlas.dtseries.nii
+        0  03-07-2018 22:38   {subject}/MNINonLinear/Results/tfMRI_MOVIE3_7T_PA/RibbonVolumeToSurfaceMapping/
+    96903  07-14-2017 04:41   {subject}/MNINonLinear/Results/tfMRI_MOVIE3_7T_PA/RibbonVolumeToSurfaceMapping/goodvoxels.nii.gz
+   121695  07-14-2017 04:33   {subject}/MNINonLinear/Results/tfMRI_MOVIE3_7T_PA/Movement_Regressors_dt.txt
+        9  07-14-2017 04:33   {subject}/MNINonLinear/Results/tfMRI_MOVIE3_7T_PA/Movement_RelativeRMS_mean.txt
+   121695  07-14-2017 04:33   {subject}/MNINonLinear/Results/tfMRI_MOVIE3_7T_PA/Movement_Regressors.txt
+  1806205  07-14-2017 04:26   {subject}/MNINonLinear/Results/tfMRI_MOVIE3_7T_PA/tfMRI_MOVIE3_7T_PA_dropouts.nii.gz
+    41422  07-14-2017 04:33   {subject}/MNINonLinear/Results/tfMRI_MOVIE3_7T_PA/brainmask_fs.1.60.nii.gz
+334726488  12-18-2017 11:26   {subject}/MNINonLinear/Results/tfMRI_MOVIE3_7T_PA/tfMRI_MOVIE3_7T_PA_Atlas_MSMAll.dtseries.nii
+  1839139  07-14-2017 04:26   {subject}/MNINonLinear/Results/tfMRI_MOVIE3_7T_PA/tfMRI_MOVIE3_7T_PA_sebased_bias.nii.gz
+  1848436  07-14-2017 04:26   {subject}/MNINonLinear/Results/tfMRI_MOVIE3_7T_PA/tfMRI_MOVIE3_7T_PA_sebased_reference.nii.gz
+  5628555  07-14-2017 04:33   {subject}/MNINonLinear/Results/tfMRI_MOVIE3_7T_PA/tfMRI_MOVIE3_7T_PA_Jacobian.nii.gz
+        9  07-14-2017 04:33   {subject}/MNINonLinear/Results/tfMRI_MOVIE3_7T_PA/Movement_AbsoluteRMS_mean.txt
+     7643  07-14-2017 04:33   {subject}/MNINonLinear/Results/tfMRI_MOVIE3_7T_PA/Movement_AbsoluteRMS.txt
+ 17230011  07-14-2017 04:25   {subject}/MNINonLinear/Results/tfMRI_MOVIE3_7T_PA/tfMRI_MOVIE3_7T_PA_PhaseOne_gdc_dc.nii.gz
+     8352  07-14-2017 04:33   {subject}/MNINonLinear/Results/tfMRI_MOVIE3_7T_PA/Movement_RelativeRMS.txt
+        0  03-07-2018 22:38   {subject}/MNINonLinear/Results/tfMRI_MOVIE4_7T_AP/
+329614664  07-14-2017 06:31   {subject}/MNINonLinear/Results/tfMRI_MOVIE4_7T_AP/tfMRI_MOVIE4_7T_AP_Atlas.dtseries.nii
+  1641675  07-14-2017 04:15   {subject}/MNINonLinear/Results/tfMRI_MOVIE4_7T_AP/tfMRI_MOVIE4_7T_AP_SBRef.nii.gz
+   119833  07-14-2017 04:15   {subject}/MNINonLinear/Results/tfMRI_MOVIE4_7T_AP/Movement_Regressors_dt.txt
+  1840837  07-14-2017 04:08   {subject}/MNINonLinear/Results/tfMRI_MOVIE4_7T_AP/tfMRI_MOVIE4_7T_AP_sebased_bias.nii.gz
+        8  07-14-2017 04:15   {subject}/MNINonLinear/Results/tfMRI_MOVIE4_7T_AP/Movement_AbsoluteRMS_mean.txt
+ 17241240  07-14-2017 04:07   {subject}/MNINonLinear/Results/tfMRI_MOVIE4_7T_AP/tfMRI_MOVIE4_7T_AP_PhaseOne_gdc_dc.nii.gz
+        0  03-07-2018 22:38   {subject}/MNINonLinear/Results/tfMRI_MOVIE4_7T_AP/RibbonVolumeToSurfaceMapping/
+   100631  07-14-2017 04:22   {subject}/MNINonLinear/Results/tfMRI_MOVIE4_7T_AP/RibbonVolumeToSurfaceMapping/goodvoxels.nii.gz
+    41422  07-14-2017 04:15   {subject}/MNINonLinear/Results/tfMRI_MOVIE4_7T_AP/brainmask_fs.1.60.nii.gz
+  1729839  07-14-2017 04:08   {subject}/MNINonLinear/Results/tfMRI_MOVIE4_7T_AP/tfMRI_MOVIE4_7T_AP_dropouts.nii.gz
+ 17242840  07-14-2017 04:08   {subject}/MNINonLinear/Results/tfMRI_MOVIE4_7T_AP/tfMRI_MOVIE4_7T_AP_PhaseTwo_gdc_dc.nii.gz
+     8135  07-14-2017 04:15   {subject}/MNINonLinear/Results/tfMRI_MOVIE4_7T_AP/Movement_RelativeRMS.txt
+  5641131  07-14-2017 04:15   {subject}/MNINonLinear/Results/tfMRI_MOVIE4_7T_AP/tfMRI_MOVIE4_7T_AP_Jacobian.nii.gz
+   119833  07-14-2017 04:15   {subject}/MNINonLinear/Results/tfMRI_MOVIE4_7T_AP/Movement_Regressors.txt
+     7329  07-14-2017 04:15   {subject}/MNINonLinear/Results/tfMRI_MOVIE4_7T_AP/Movement_AbsoluteRMS.txt
+        9  07-14-2017 04:15   {subject}/MNINonLinear/Results/tfMRI_MOVIE4_7T_AP/Movement_RelativeRMS_mean.txt
+  1854774  07-14-2017 04:08   {subject}/MNINonLinear/Results/tfMRI_MOVIE4_7T_AP/tfMRI_MOVIE4_7T_AP_sebased_reference.nii.gz
+329614696  12-18-2017 11:32   {subject}/MNINonLinear/Results/tfMRI_MOVIE4_7T_AP/tfMRI_MOVIE4_7T_AP_Atlas_MSMAll.dtseries.nii
+        0  03-07-2018 22:38   {subject}/MNINonLinear/Results/tfMRI_MOVIE1_7T_AP/
+     7616  07-14-2017 03:47   {subject}/MNINonLinear/Results/tfMRI_MOVIE1_7T_AP/Movement_AbsoluteRMS.txt
+ 17260319  07-14-2017 03:40   {subject}/MNINonLinear/Results/tfMRI_MOVIE1_7T_AP/tfMRI_MOVIE1_7T_AP_PhaseOne_gdc_dc.nii.gz
+  1842260  07-14-2017 03:40   {subject}/MNINonLinear/Results/tfMRI_MOVIE1_7T_AP/tfMRI_MOVIE1_7T_AP_sebased_bias.nii.gz
+     8355  07-14-2017 03:47   {subject}/MNINonLinear/Results/tfMRI_MOVIE1_7T_AP/Movement_RelativeRMS.txt
+        0  03-07-2018 22:38   {subject}/MNINonLinear/Results/tfMRI_MOVIE1_7T_AP/RibbonVolumeToSurfaceMapping/
+    95644  07-14-2017 03:54   {subject}/MNINonLinear/Results/tfMRI_MOVIE1_7T_AP/RibbonVolumeToSurfaceMapping/goodvoxels.nii.gz
+336917256  12-18-2017 11:16   {subject}/MNINonLinear/Results/tfMRI_MOVIE1_7T_AP/tfMRI_MOVIE1_7T_AP_Atlas_MSMAll.dtseries.nii
+   122493  07-14-2017 03:47   {subject}/MNINonLinear/Results/tfMRI_MOVIE1_7T_AP/Movement_Regressors.txt
+  1644201  07-14-2017 03:47   {subject}/MNINonLinear/Results/tfMRI_MOVIE1_7T_AP/tfMRI_MOVIE1_7T_AP_SBRef.nii.gz
+    41422  07-14-2017 03:47   {subject}/MNINonLinear/Results/tfMRI_MOVIE1_7T_AP/brainmask_fs.1.60.nii.gz
+336917224  07-14-2017 05:57   {subject}/MNINonLinear/Results/tfMRI_MOVIE1_7T_AP/tfMRI_MOVIE1_7T_AP_Atlas.dtseries.nii
+        9  07-14-2017 03:47   {subject}/MNINonLinear/Results/tfMRI_MOVIE1_7T_AP/Movement_RelativeRMS_mean.txt
+  1857383  07-14-2017 03:40   {subject}/MNINonLinear/Results/tfMRI_MOVIE1_7T_AP/tfMRI_MOVIE1_7T_AP_sebased_reference.nii.gz
+   122493  07-14-2017 03:47   {subject}/MNINonLinear/Results/tfMRI_MOVIE1_7T_AP/Movement_Regressors_dt.txt
+  1899421  07-14-2017 03:40   {subject}/MNINonLinear/Results/tfMRI_MOVIE1_7T_AP/tfMRI_MOVIE1_7T_AP_dropouts.nii.gz
+  5626047  07-14-2017 03:47   {subject}/MNINonLinear/Results/tfMRI_MOVIE1_7T_AP/tfMRI_MOVIE1_7T_AP_Jacobian.nii.gz
+ 17264692  07-14-2017 03:40   {subject}/MNINonLinear/Results/tfMRI_MOVIE1_7T_AP/tfMRI_MOVIE1_7T_AP_PhaseTwo_gdc_dc.nii.gz
+        8  07-14-2017 03:47   {subject}/MNINonLinear/Results/tfMRI_MOVIE1_7T_AP/Movement_AbsoluteRMS_mean.txt
+        0  03-07-2018 22:38   {subject}/release-notes/
+     1921  03-07-2018 22:38   {subject}/release-notes/{subject}_7T_MOVIE_2mm_preproc.txt
+---------                     -------
+2864802632                     81 files

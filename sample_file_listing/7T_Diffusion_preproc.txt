@@ -1,0 +1,24 @@
+Archive:  /project/6050199/ext-data/hcp1200/zipfiles/{subject}_7T_Diffusion_preproc.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+        0  11-04-2016 13:20   {subject}/
+        0  11-04-2016 13:20   {subject}/release-notes/
+        0  11-04-2016 13:20   {subject}/T1w/
+        0  11-04-2016 13:20   {subject}/T1w/Diffusion_7T/
+        0  11-04-2016 13:20   {subject}/T1w/Diffusion_7T/eddylogs/
+     8110  11-01-2016 08:16   {subject}/T1w/Diffusion_7T/eddylogs/eddy_unwarped_images.eddy_movement_rms
+    72434  11-01-2016 08:16   {subject}/T1w/Diffusion_7T/eddylogs/eddy_unwarped_images.eddy_parameters
+    75857  11-01-2016 08:16   {subject}/T1w/Diffusion_7T/eddylogs/eddy_unwarped_images.eddy_outlier_map
+     8187  11-01-2016 08:16   {subject}/T1w/Diffusion_7T/eddylogs/eddy_unwarped_images.eddy_restricted_movement_rms
+   286291  11-01-2016 08:16   {subject}/T1w/Diffusion_7T/eddylogs/eddy_unwarped_images.eddy_outlier_n_stdev_map
+    25352  11-01-2016 08:16   {subject}/T1w/Diffusion_7T/eddylogs/eddy_unwarped_images.eddy_outlier_report
+   282428  11-01-2016 08:16   {subject}/T1w/Diffusion_7T/eddylogs/eddy_unwarped_images.eddy_outlier_n_sqr_stdev_map
+     1538  11-01-2016 08:16   {subject}/T1w/Diffusion_7T/eddylogs/eddy_unwarped_images.eddy_post_eddy_shell_alignment_parameters
+   104367  11-01-2016 08:16   {subject}/T1w/Diffusion_7T/nodif_brain_mask.nii.gz
+      652  11-01-2016 07:53   {subject}/T1w/Diffusion_7T/bvals
+1124938334  11-01-2016 08:15   {subject}/T1w/Diffusion_7T/data.nii.gz
+     4722  11-01-2016 07:53   {subject}/T1w/Diffusion_7T/bvecs
+ 71874143  11-01-2016 08:08   {subject}/T1w/Diffusion_7T/grad_dev.nii.gz
+ 22319668  11-01-2016 07:52   {subject}/T1w/T1w_acpc_dc_restore_1.05.nii.gz
+---------                     -------
+1220002083                     19 files

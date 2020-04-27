@@ -1,0 +1,86 @@
+Archive:  /project/6050199/ext-data/hcp1200/zipfiles/{subject}_7T_REST_1.6mm_preproc.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+        0  03-07-2018 22:58   {subject}/
+        0  03-07-2018 22:58   {subject}/release-notes/
+     1921  03-07-2018 22:58   {subject}/release-notes/{subject}_7T_REST_1.6mm_preproc.txt
+        0  03-07-2018 22:58   {subject}/MNINonLinear/
+        0  03-07-2018 22:58   {subject}/MNINonLinear/Results/
+        0  03-07-2018 22:58   {subject}/MNINonLinear/Results/rfMRI_REST2_7T_AP/
+ 17240711  07-14-2017 02:06   {subject}/MNINonLinear/Results/rfMRI_REST2_7T_AP/rfMRI_REST2_7T_AP_PhaseTwo_gdc_dc.nii.gz
+614983040  07-14-2017 06:02   {subject}/MNINonLinear/Results/rfMRI_REST2_7T_AP/rfMRI_REST2_7T_AP_Atlas_1.6mm.dtseries.nii
+  5627673  07-14-2017 02:14   {subject}/MNINonLinear/Results/rfMRI_REST2_7T_AP/rfMRI_REST2_7T_AP_Jacobian.nii.gz
+  1725586  07-14-2017 02:06   {subject}/MNINonLinear/Results/rfMRI_REST2_7T_AP/rfMRI_REST2_7T_AP_dropouts.nii.gz
+   119700  07-14-2017 02:14   {subject}/MNINonLinear/Results/rfMRI_REST2_7T_AP/Movement_Regressors_dt.txt
+614983072  01-29-2018 12:07   {subject}/MNINonLinear/Results/rfMRI_REST2_7T_AP/rfMRI_REST2_7T_AP_Atlas_1.6mm_MSMAll.dtseries.nii
+        9  07-14-2017 02:14   {subject}/MNINonLinear/Results/rfMRI_REST2_7T_AP/Movement_RelativeRMS_mean.txt
+   119700  07-14-2017 02:14   {subject}/MNINonLinear/Results/rfMRI_REST2_7T_AP/Movement_Regressors.txt
+  1642763  07-14-2017 02:14   {subject}/MNINonLinear/Results/rfMRI_REST2_7T_AP/rfMRI_REST2_7T_AP_SBRef.nii.gz
+        0  03-07-2018 22:58   {subject}/MNINonLinear/Results/rfMRI_REST2_7T_AP/RibbonVolumeToSurfaceMapping/
+    97368  07-14-2017 02:21   {subject}/MNINonLinear/Results/rfMRI_REST2_7T_AP/RibbonVolumeToSurfaceMapping/goodvoxels.nii.gz
+    41422  07-14-2017 02:14   {subject}/MNINonLinear/Results/rfMRI_REST2_7T_AP/brainmask_fs.1.60.nii.gz
+ 17235902  07-14-2017 02:06   {subject}/MNINonLinear/Results/rfMRI_REST2_7T_AP/rfMRI_REST2_7T_AP_PhaseOne_gdc_dc.nii.gz
+  1841709  07-14-2017 02:06   {subject}/MNINonLinear/Results/rfMRI_REST2_7T_AP/rfMRI_REST2_7T_AP_sebased_bias.nii.gz
+        8  07-14-2017 02:14   {subject}/MNINonLinear/Results/rfMRI_REST2_7T_AP/Movement_AbsoluteRMS_mean.txt
+     8201  07-14-2017 02:14   {subject}/MNINonLinear/Results/rfMRI_REST2_7T_AP/Movement_RelativeRMS.txt
+     7327  07-14-2017 02:14   {subject}/MNINonLinear/Results/rfMRI_REST2_7T_AP/Movement_AbsoluteRMS.txt
+  1860576  07-14-2017 02:06   {subject}/MNINonLinear/Results/rfMRI_REST2_7T_AP/rfMRI_REST2_7T_AP_sebased_reference.nii.gz
+        0  03-07-2018 22:58   {subject}/MNINonLinear/Results/rfMRI_REST4_7T_AP/
+   119700  07-14-2017 04:27   {subject}/MNINonLinear/Results/rfMRI_REST4_7T_AP/Movement_Regressors_dt.txt
+        9  07-14-2017 04:27   {subject}/MNINonLinear/Results/rfMRI_REST4_7T_AP/Movement_AbsoluteRMS_mean.txt
+  1842225  07-14-2017 04:19   {subject}/MNINonLinear/Results/rfMRI_REST4_7T_AP/rfMRI_REST4_7T_AP_sebased_bias.nii.gz
+614983040  07-14-2017 08:49   {subject}/MNINonLinear/Results/rfMRI_REST4_7T_AP/rfMRI_REST4_7T_AP_Atlas_1.6mm.dtseries.nii
+  1644734  07-14-2017 04:27   {subject}/MNINonLinear/Results/rfMRI_REST4_7T_AP/rfMRI_REST4_7T_AP_SBRef.nii.gz
+ 17234136  07-14-2017 04:19   {subject}/MNINonLinear/Results/rfMRI_REST4_7T_AP/rfMRI_REST4_7T_AP_PhaseTwo_gdc_dc.nii.gz
+614983072  01-29-2018 12:31   {subject}/MNINonLinear/Results/rfMRI_REST4_7T_AP/rfMRI_REST4_7T_AP_Atlas_1.6mm_MSMAll.dtseries.nii
+    41422  07-14-2017 04:27   {subject}/MNINonLinear/Results/rfMRI_REST4_7T_AP/brainmask_fs.1.60.nii.gz
+ 17230130  07-14-2017 04:19   {subject}/MNINonLinear/Results/rfMRI_REST4_7T_AP/rfMRI_REST4_7T_AP_PhaseOne_gdc_dc.nii.gz
+        9  07-14-2017 04:27   {subject}/MNINonLinear/Results/rfMRI_REST4_7T_AP/Movement_RelativeRMS_mean.txt
+  1642926  07-14-2017 04:19   {subject}/MNINonLinear/Results/rfMRI_REST4_7T_AP/rfMRI_REST4_7T_AP_dropouts.nii.gz
+   119700  07-14-2017 04:27   {subject}/MNINonLinear/Results/rfMRI_REST4_7T_AP/Movement_Regressors.txt
+  5631872  07-14-2017 04:27   {subject}/MNINonLinear/Results/rfMRI_REST4_7T_AP/rfMRI_REST4_7T_AP_Jacobian.nii.gz
+  1857660  07-14-2017 04:19   {subject}/MNINonLinear/Results/rfMRI_REST4_7T_AP/rfMRI_REST4_7T_AP_sebased_reference.nii.gz
+        0  03-07-2018 22:58   {subject}/MNINonLinear/Results/rfMRI_REST4_7T_AP/RibbonVolumeToSurfaceMapping/
+    96755  07-14-2017 04:35   {subject}/MNINonLinear/Results/rfMRI_REST4_7T_AP/RibbonVolumeToSurfaceMapping/goodvoxels.nii.gz
+     8083  07-14-2017 04:27   {subject}/MNINonLinear/Results/rfMRI_REST4_7T_AP/Movement_AbsoluteRMS.txt
+     8221  07-14-2017 04:27   {subject}/MNINonLinear/Results/rfMRI_REST4_7T_AP/Movement_RelativeRMS.txt
+        0  03-07-2018 22:58   {subject}/MNINonLinear/Results/rfMRI_REST1_7T_PA/
+     8212  07-14-2017 02:16   {subject}/MNINonLinear/Results/rfMRI_REST1_7T_PA/Movement_RelativeRMS.txt
+        9  07-14-2017 02:16   {subject}/MNINonLinear/Results/rfMRI_REST1_7T_PA/Movement_AbsoluteRMS_mean.txt
+     8007  07-14-2017 02:16   {subject}/MNINonLinear/Results/rfMRI_REST1_7T_PA/Movement_AbsoluteRMS.txt
+614983040  07-14-2017 06:11   {subject}/MNINonLinear/Results/rfMRI_REST1_7T_PA/rfMRI_REST1_7T_PA_Atlas_1.6mm.dtseries.nii
+  1767482  07-14-2017 02:09   {subject}/MNINonLinear/Results/rfMRI_REST1_7T_PA/rfMRI_REST1_7T_PA_dropouts.nii.gz
+    41422  07-14-2017 02:16   {subject}/MNINonLinear/Results/rfMRI_REST1_7T_PA/brainmask_fs.1.60.nii.gz
+  5612273  07-14-2017 02:16   {subject}/MNINonLinear/Results/rfMRI_REST1_7T_PA/rfMRI_REST1_7T_PA_Jacobian.nii.gz
+ 17235068  07-14-2017 02:09   {subject}/MNINonLinear/Results/rfMRI_REST1_7T_PA/rfMRI_REST1_7T_PA_PhaseTwo_gdc_dc.nii.gz
+   119700  07-14-2017 02:16   {subject}/MNINonLinear/Results/rfMRI_REST1_7T_PA/Movement_Regressors.txt
+        8  07-14-2017 02:16   {subject}/MNINonLinear/Results/rfMRI_REST1_7T_PA/Movement_RelativeRMS_mean.txt
+   119700  07-14-2017 02:16   {subject}/MNINonLinear/Results/rfMRI_REST1_7T_PA/Movement_Regressors_dt.txt
+ 17235974  07-14-2017 02:08   {subject}/MNINonLinear/Results/rfMRI_REST1_7T_PA/rfMRI_REST1_7T_PA_PhaseOne_gdc_dc.nii.gz
+  1644424  07-14-2017 02:16   {subject}/MNINonLinear/Results/rfMRI_REST1_7T_PA/rfMRI_REST1_7T_PA_SBRef.nii.gz
+  1848733  07-14-2017 02:09   {subject}/MNINonLinear/Results/rfMRI_REST1_7T_PA/rfMRI_REST1_7T_PA_sebased_reference.nii.gz
+        0  03-07-2018 22:58   {subject}/MNINonLinear/Results/rfMRI_REST1_7T_PA/RibbonVolumeToSurfaceMapping/
+    98611  07-14-2017 02:23   {subject}/MNINonLinear/Results/rfMRI_REST1_7T_PA/RibbonVolumeToSurfaceMapping/goodvoxels.nii.gz
+614983072  01-29-2018 11:54   {subject}/MNINonLinear/Results/rfMRI_REST1_7T_PA/rfMRI_REST1_7T_PA_Atlas_1.6mm_MSMAll.dtseries.nii
+  1842188  07-14-2017 02:09   {subject}/MNINonLinear/Results/rfMRI_REST1_7T_PA/rfMRI_REST1_7T_PA_sebased_bias.nii.gz
+        0  03-07-2018 22:58   {subject}/MNINonLinear/Results/rfMRI_REST3_7T_PA/
+        8  07-14-2017 04:34   {subject}/MNINonLinear/Results/rfMRI_REST3_7T_PA/Movement_AbsoluteRMS_mean.txt
+    41422  07-14-2017 04:34   {subject}/MNINonLinear/Results/rfMRI_REST3_7T_PA/brainmask_fs.1.60.nii.gz
+ 17238708  07-14-2017 04:27   {subject}/MNINonLinear/Results/rfMRI_REST3_7T_PA/rfMRI_REST3_7T_PA_PhaseTwo_gdc_dc.nii.gz
+  1848597  07-14-2017 04:27   {subject}/MNINonLinear/Results/rfMRI_REST3_7T_PA/rfMRI_REST3_7T_PA_sebased_reference.nii.gz
+     8162  07-14-2017 04:34   {subject}/MNINonLinear/Results/rfMRI_REST3_7T_PA/Movement_RelativeRMS.txt
+   119700  07-14-2017 04:34   {subject}/MNINonLinear/Results/rfMRI_REST3_7T_PA/Movement_Regressors.txt
+     7395  07-14-2017 04:34   {subject}/MNINonLinear/Results/rfMRI_REST3_7T_PA/Movement_AbsoluteRMS.txt
+  1642691  07-14-2017 04:34   {subject}/MNINonLinear/Results/rfMRI_REST3_7T_PA/rfMRI_REST3_7T_PA_SBRef.nii.gz
+   119700  07-14-2017 04:34   {subject}/MNINonLinear/Results/rfMRI_REST3_7T_PA/Movement_Regressors_dt.txt
+        0  03-07-2018 22:58   {subject}/MNINonLinear/Results/rfMRI_REST3_7T_PA/RibbonVolumeToSurfaceMapping/
+   100562  07-14-2017 04:42   {subject}/MNINonLinear/Results/rfMRI_REST3_7T_PA/RibbonVolumeToSurfaceMapping/goodvoxels.nii.gz
+        9  07-14-2017 04:34   {subject}/MNINonLinear/Results/rfMRI_REST3_7T_PA/Movement_RelativeRMS_mean.txt
+614983072  01-29-2018 12:19   {subject}/MNINonLinear/Results/rfMRI_REST3_7T_PA/rfMRI_REST3_7T_PA_Atlas_1.6mm_MSMAll.dtseries.nii
+  5595269  07-14-2017 04:34   {subject}/MNINonLinear/Results/rfMRI_REST3_7T_PA/rfMRI_REST3_7T_PA_Jacobian.nii.gz
+614983040  07-14-2017 08:46   {subject}/MNINonLinear/Results/rfMRI_REST3_7T_PA/rfMRI_REST3_7T_PA_Atlas_1.6mm.dtseries.nii
+  1839585  07-14-2017 04:27   {subject}/MNINonLinear/Results/rfMRI_REST3_7T_PA/rfMRI_REST3_7T_PA_sebased_bias.nii.gz
+ 17242609  07-14-2017 04:27   {subject}/MNINonLinear/Results/rfMRI_REST3_7T_PA/rfMRI_REST3_7T_PA_PhaseOne_gdc_dc.nii.gz
+  1764166  07-14-2017 04:27   {subject}/MNINonLinear/Results/rfMRI_REST3_7T_PA/rfMRI_REST3_7T_PA_dropouts.nii.gz
+---------                     -------
+5110063000                     81 files
